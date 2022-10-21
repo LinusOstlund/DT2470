@@ -1,0 +1,3 @@
+[submodule "labs/gradio-app/musicnn"]
+	path = labs/gradio-app/musicnn
+	url = https://github.com/jordipons/musicnn.git
